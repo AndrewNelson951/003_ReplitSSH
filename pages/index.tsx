@@ -18,7 +18,7 @@ const Home: NextPage = () => {
       </Head>
 
       <header style={{ backgroundColor: 'lightblue', padding: '1rem', textAlign: 'center' }}>
-        <h1>003</h1>
+        <h1>003_ReplitSSH</h1>
       </header>
 
       <main className={styles.main}>
